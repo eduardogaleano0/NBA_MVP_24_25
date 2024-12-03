@@ -35,7 +35,11 @@ Python 3.9 ou superior
 
 ## Pacotes necessários:
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 nba_api

@@ -3,7 +3,7 @@
 
 Descrição do Projeto:
 
-Este projeto utiliza a NBA API para coletar dados de desempenho de jogadores e equipes da NBA na temporada 2024-25. A análise é focada em jogadores como Nikola Jokić e Jayson Tatum, mas pode ser facilmente expandida para outros atletas e temporadas que estão disputando o prêmio de MVP da temporada. 
+Este projeto utiliza a NBA API para coletar dados de desempenho de jogadores e equipes da NBA na temporada 2024-25. A análise é focada em jogadores como Nikola Jokić e Jayson Tatum, mas pode ser facilmente expandida para outros atletas que estão disputando o prêmio de MVP. 
 
 O projeto inclui:
 

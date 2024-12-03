@@ -29,3 +29,13 @@ Comparação direta entre desempenhos de jogadores.
 Gráficos interativos para análise de desempenho.
 
 Comparação visual entre jogadores utilizando Seaborn e Matplotlib.
+## Requisitos
+
+Python 3.9 ou superior
+
+## Pacotes necessários:
+pandas
+numpy
+matplotlib
+seaborn
+nba_api

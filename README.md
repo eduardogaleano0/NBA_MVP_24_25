@@ -13,9 +13,6 @@ Comparações detalhadas entre jogadores
 
 Visualizações de dados interativas
 
-Funcionalidades
-
-
 
 
 ## Funcionalidades

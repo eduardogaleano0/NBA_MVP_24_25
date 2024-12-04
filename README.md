@@ -8,7 +8,9 @@ Este projeto utiliza a NBA API para coletar dados de desempenho de jogadores e e
 ## O projeto inclui:
 
 Cálculos de estatísticas médias e totais
+
 Comparações detalhadas entre jogadores
+
 Visualizações de dados interativas
 
 Funcionalidades

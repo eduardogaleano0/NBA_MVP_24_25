@@ -24,6 +24,8 @@ Cálculo de estatísticas médias, totais e comparativas.
 
 Comparação direta entre desempenhos de jogadores.
 
+Comparação direta entre desempenhos de jogadores.
+
 As estatísticas utilizadas no projeto fornecem informações detalhadas sobre o desempenho dos jogadores em cada partida. Abaixo, segue a explicação de cada uma delas:
 
 | Estatística              | Significado                                                                                                                                                                              |
@@ -36,7 +38,6 @@ As estatísticas utilizadas no projeto fornecem informações detalhadas sobre o
 | AST (Assists)              | Total de assistências realizadas pelo jogador, indicando passes que resultaram em pontos.                                                                                                |
 | PLUS_MINUS (Plus-Minus)    | Diferença no placar enquanto o jogador esteve em quadra. Um valor positivo indica que a equipe teve um desempenho melhor com ele jogando, enquanto um valor negativo indica o contrário. |
 
-Comparação direta entre desempenhos de jogadores.
 ## 3. Visualização de Dados
 Gráficos interativos para análise de desempenho.
 
